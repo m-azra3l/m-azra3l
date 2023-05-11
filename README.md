@@ -1,4 +1,5 @@
 👋 Hi, I’m Michael, a software development engineer
+<hr>
 <h3 align="left">My Current Skillset:</h3>
 - Node JS, 
 - Express, 
@@ -18,7 +19,7 @@
 - C#,
 - Microsoft Sql,
 - IPFS
-
+<hr>
  💞️ I’m looking to collaborate on projects
  📫 You can reach me via twitter https://twitter.com/m_azra3l or via email gadreelazazel@gmail.com
 
