@@ -20,7 +20,7 @@
 - Microsoft Sql,
 - IPFS
 <hr>
-### My Stats :
+### :fire: My Stats :
 
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=m-azra3l&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
