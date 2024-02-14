@@ -26,7 +26,7 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=m-azra3l&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=DD2727&ring=49D0DD)](https://git.io/streak-stats)
 
-[![Michael's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=m-azra3l&layout=compact&langs_count=20&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Michael's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=m-azra3l&layout=compact&langs_count=15&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 <hr>
  💞️ I’m looking to collaborate on projects
  📫 You can reach me via twitter https://twitter.com/m_azra3l or via email gadreelazazel@gmail.com
