@@ -29,9 +29,7 @@
 [![Michael's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=m-azra3l&layout=compact&langs_count=10&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 <hr>
  💞️ I’m looking to collaborate on projects
- 📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/michael-damilare-adesina-4b51a5134/) or via email gadreelazazel@gmail.com
-
-
+ 📫 You can reach me via <a href="https://www.linkedin.com/in/michael-damilare-adesina-4b51a5134/" target="_blank">LinkedIn</a> or via <a href="mailto:gadreelazazel@gmail.com">Email</a>
 
 <!---
 m-azra3l/m-azra3l is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
