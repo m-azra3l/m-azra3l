@@ -1,6 +1,6 @@
-# Hello
+<hr/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Georgia&size=40&duration=2000&pause=100&multiline=true&width=600&height=100&lines=Michael+Adesina;Software+Development+Engineer)](https://github.com/m-azra3l)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Georgia&size=30&duration=2000&pause=100&multiline=true&width=600&height=80&lines=Michael+Adesina;Software+Development+Engineer)](https://github.com/m-azra3l)
 
 <hr>
 <p align="center"> 
@@ -51,8 +51,3 @@
 </div>
 
 <hr>
-
-<!---
-m-azra3l/m-azra3l is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
