@@ -43,6 +43,9 @@
 
 <br/>
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=m-azra3l&theme=react&date_format=M%20j%5B%2C%20Y%5D&fire=FFFEFE&currStreakNum=FFFEFE&dates=FFFEFE&background=0D1117&ring=5BCDEC&sideNums=FFFEFE)](https://git.io/streak-stats)
+
+
 [![GitHub Streak]("http://github-readme-streak-stats.herokuapp.com?user=m-azra3l&theme=react&date_format=M%20j%5B%2C%20Y%5D&fire=FFFEFE&currStreakNum=FFFEFE&dates=FFFEFE&background=0D1117&ring=5BCDEC&sideNums=FFFEFE")](https://git.io/streak-stats)
  
 <br/>
