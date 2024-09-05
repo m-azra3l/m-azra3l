@@ -33,7 +33,7 @@ and hard work, attention to detail, and excellent organizational skills.</h5>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=m-azra3l&layout=compact&theme=github_dark&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=m-azra3l&theme=github_dark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&stroke=DD2727&ring=49D0DD)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=m-azra3l&theme=react&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&stroke=DD2727&ring=49D0DD)](https://git.io/streak-stats)
 
 [![Michael's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=m-azra3l&layout=compact&langs_count=50&show_icons=true&theme=github_dark&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
 <hr>
