@@ -1,6 +1,6 @@
 <hr/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Georgia&size=30&duration=2000&pause=100&multiline=true&width=600&height=80&center=true&lines=Michael+Damilare+Adesina;Software+Development+Engineer)](https://github.com/m-azra3l)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Georgia&size=30&duration=2000&pause=100&multiline=true&width=600&height=90&vCenter=true&center=true&lines=Michael+Damilare+Adesina;Software+Development+Engineer)](https://github.com/m-azra3l)
 
 <hr>
 <p align="center"> 
