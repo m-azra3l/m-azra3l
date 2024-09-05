@@ -3,9 +3,34 @@
 development, and .NET technologies. Proficient in C#, JavaScript, TypeScript, and Solidity with a proven
 track record of building scalable and secure applications. Adept in modern frameworks including Angular,
 React, Next JS, and .NET. Committed to leveraging expertise to contribute to team success through smart
-and hard work, attention to detail, and excellent organizational skills.</h5>
+and hard work, attention to detail, and excellent organizational skills.
+ 💞️ I’m looking to collaborate on projects
+ 📫 You can reach me via <a href="https://www.linkedin.com/in/michael-damilare-adesina-4b51a5134/" target="_blank">LinkedIn</a> or via <a href="mailto:gadreelazazel@gmail.com">Email</a>
+ </h5>
 <hr>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=m-azra3l&label=Profile%20views&color=0e75b6&style=plastic" alt="AZRA3L" /> </p>
+<p align="center"> 
+<img src="https://komarev.com/ghpvc/?username=m-azra3l&label=Profile%20views&color=0e75b6&style=flat-square" alt="AZRA3L"  height=25 /> 
+
+<a href="https://github.com/m-azra3l/m-azra3l/blob/main/docs/Michael%20Adesina%20CV.pdf" title="CV">
+    <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe" height=25>
+
+<a href="https://github.com/m-azra3l/m-azra3l/blob/main/docs/Michael%20Adesina%20Resume.pdf" title="Resume">
+    <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe" height=25>
+</a>  
+</p>
+
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/michael-damilare-adesina-4b51a5134/">
+    <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin" height=25>
+</a>
+<a href="mailto:gadreelazazel@gmail.com" title="gadreelazazel@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white" height=25>
+
+ <a href="mailto:asejodeya@gmail.com" title="asejodeya@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-blue?style=flat-square&logo=gmail&logoColor=white" height=25>
+</p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m-azra3l" alt="AZRA3L" /></a> </p>
 <hr>
@@ -35,7 +60,6 @@ and hard work, attention to detail, and excellent organizational skills.</h5>
   
 <div align="center">
 
- :fire: My Stats :
 
 [![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=m-azra3l&layout=compact&theme=github_dark&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -53,8 +77,7 @@ and hard work, attention to detail, and excellent organizational skills.</h5>
 
 
 <hr>
- 💞️ I’m looking to collaborate on projects
- 📫 You can reach me via <a href="https://www.linkedin.com/in/michael-damilare-adesina-4b51a5134/" target="_blank">LinkedIn</a> or via <a href="mailto:gadreelazazel@gmail.com">Email</a>
+
 
 <!---
 m-azra3l/m-azra3l is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
