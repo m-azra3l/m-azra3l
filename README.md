@@ -33,9 +33,6 @@
 </p>
 
 <hr>
-
-<h1 align="center">Code Stats</h1>
-
   
 <div align="center">
 
