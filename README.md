@@ -1,5 +1,9 @@
 👋 Hi, I’m Michael, a software development engineer
 <hr>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=m-azra3l&label=Profile%20views&color=0e75b6&style=plastic" alt="AZRA3L" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m-azra3l" alt="AZRA3L" /></a> </p>
+<hr>
 <h3 align="left">My Current Skillset:</h3>
 - Node JS, 
 - Express, 
