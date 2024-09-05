@@ -1,6 +1,6 @@
-<a href="https://github.com/drkostas" align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=40&duration=2000&pause=100&multiline=true&width=600&height=100&lines=Michael+Adesina;Software+Development+Engineer;" alt="Typing SVG" />
-</a>
+# Hello
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Georgia&size=40&duration=2000&pause=100&multiline=true&width=600&height=100&lines=Michael+Adesina;Software+Development+Engineer)](https://github.com/m-azra3l)
 
 <hr>
 <p align="center"> 
@@ -27,7 +27,11 @@
     <img src="https://img.shields.io/badge/-Email-blue?style=flat-square&logo=gmail&logoColor=white" height=25>
 </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m-azra3l" alt="AZRA3L" /></a> </p>
+<p align="center"> 
+
+[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=m-azra3l)](https://github.com/ryo-ma/github-profile-trophy)
+</p>
+
 <hr>
 
 <h1 align="center">Code Stats</h1>
@@ -35,23 +39,18 @@
   
 <div align="center">
 
-
 [![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=m-azra3l&layout=compact&theme=github_dark&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
-
 
 <br/>
 
- [![GitHub Streak]("http://github-readme-streak-stats.herokuapp.com?user=m-azra3l&theme=react&date_format=M%20j%5B%2C%20Y%5D&fire=FFFEFE&currStreakNum=FFFEFE&dates=FFFEFE&background=0D1117&ring=5BCDEC&sideNums=FFFEFE")](https://git.io/streak-stats)
+[![GitHub Streak]("http://github-readme-streak-stats.herokuapp.com?user=m-azra3l&theme=react&date_format=M%20j%5B%2C%20Y%5D&fire=FFFEFE&currStreakNum=FFFEFE&dates=FFFEFE&background=0D1117&ring=5BCDEC&sideNums=FFFEFE")](https://git.io/streak-stats)
  
 <br/>
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m-azra3l&layout=compact&langs_count=50&show_icons=true&theme=github_dark&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
-
-
 <hr>
-
 
 <!---
 m-azra3l/m-azra3l is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
