@@ -31,17 +31,20 @@ and hard work, attention to detail, and excellent organizational skills.</h5>
 <hr>
 <h1 align="center">Code Stats</h1>
 <hr>
+
+  
+<div align="center">
+
  :fire: My Stats :
 
 [![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=m-azra3l&layout=compact&theme=github_dark&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
 
-  
-<div align="center">
- <img width="100%" height="170px" src="http://github-readme-streak-stats.herokuapp.com?user=m-azra3l&theme=react&date_format=M%20j%5B%2C%20Y%5D&fire=FFFEFE&currStreakNum=FFFEFE&dates=FFFEFE&background=0D1117&ring=5BCDEC&sideNums=FFFEFE" alt="AZRA3L" />
+
+ <img width="100%" height="100%" src="http://github-readme-streak-stats.herokuapp.com?user=m-azra3l&theme=react&date_format=M%20j%5B%2C%20Y%5D&fire=FFFEFE&currStreakNum=FFFEFE&dates=FFFEFE&background=0D1117&ring=5BCDEC&sideNums=FFFEFE" alt="AZRA3L" />
 
  <hr>
 
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=m-azra3l&theme=github_dark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&stroke=DD2727&ring=5BCDEC)](https://git.io/streak-stats)
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=m-azra3l&theme=github_dark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&stroke=fff&ring=5BCDEC)](https://git.io/streak-stats)
  <hr>
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m-azra3l&layout=compact&langs_count=50&show_icons=true&theme=github_dark&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
