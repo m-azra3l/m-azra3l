@@ -6,12 +6,8 @@
 <p align="center"> 
 <img src="https://komarev.com/ghpvc/?username=m-azra3l&label=Profile%20views&color=0e75b6&style=flat-square" alt="AZRA3L"  height=25 /> 
 
-<a href="https://github.com/m-azra3l/m-azra3l/blob/main/docs/Michael%20Adesina%20CV.pdf" title="CV">
+<a href="https://github.com/m-azra3l/m-azra3l/blob/main/docs/Michael%20Adesina.pdf" title="CV">
     <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe" height=25>
-
-<a href="https://github.com/m-azra3l/m-azra3l/blob/main/docs/Michael%20Adesina%20Resume.pdf" title="Resume">
-    <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe" height=25>
-</a>  
 </p>
 
 
